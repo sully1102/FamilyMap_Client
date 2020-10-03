@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">FamilyMap Client</string>
+
+    <string name="server_host">Server Host: </string>
+    <string name="server_port">Server Port: </string>
+    <string name="username">User Name: </string>
+    <string name="password">Password: </string>
+    <string name="first_name">First Name: </string>
+    <string name="last_name">Last Name: </string>
+    <string name="email">Email: </string>
+    <string name="gender">Gender: </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="button_register">Register</string>
+    <string name="button_login">Login</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="loginFailed">Login Failed!</string>
+    <string name="registerFailed">Register Failed!</string>
+
+    <string name="defaultMapDisplay1">Click on a marker</string>
+    <string name="defaultMapDisplay2">to see event details</string>
+
+    <string name="searchMenuName">Search</string>
+    <string name="settingMenuName">Settings</string>
+    <string name="backMenuName">Back</string>
+
+
+    <string name="settingLifeTitle">Life Story Lines</string>
+    <string name="settingLifeDescription">SHOW LIFE STORY LINES</string>
+    <string name="settingFamilyTitle">Family Tree Lines</string>
+    <string name="settingFamilyDescription">SHOW FAMILY TREE LINES</string>
+    <string name="settingSpouseTitle">Spouse Lines</string>
+    <string name="settingSpouseDescription">SHOW SPOUSE LINES</string>
+    <string name="settingFatherTitle">Father Side</string>
+    <string name="settingFatherDescription">FILTER BY FATHER SIDE OF FAMILY</string>
+    <string name="settingMotherTitle">Mother Side</string>
+    <string name="settingMotherDescription">FILTER BY MOTHER SIDE OF FAMILY</string>
+    <string name="settingMaleTitle">Male Events</string>
+    <string name="settingMaleDescription">FILTER EVENTS BASED ON GENDER</string>
+    <string name="settingFemaleTitle">Female Events</string>
+    <string name="settingFemaleDescription">FILTER EVENTS BASED ON GENDER</string>
+    <string name="settingLogoutTitle">Logout</string>
+    <string name="settingLogoutDescription">RETURN TO LOGIN SCREEN</string>
+
+    <string name="personFamilyTitle">Family</string>
+    <string name="personEventTitle">Life Events</string>
+
+    <string name="father">Father</string>
+    <string name="mother">Mother</string>
+    <string name="spouse">Spouse</string>
+    <string name="child">Child</string>
+
+</resources>

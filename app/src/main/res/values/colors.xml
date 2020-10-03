@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="forestGreen">#228b22</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF7F00</color>
+    <color name="green">#00FF00</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="blue">#0000FF</color>
+    <color name="violet">#7F00FF</color>
+    <color name="magenta">#FF00FF</color>
+
+    <array name="colorArray">
+        <item>@color/forestGreen</item>
+        <item>@color/yellow</item>
+        <item>@color/black</item>
+        <item>@color/red</item>
+        <item>@color/orange</item>
+        <item>@color/green</item>
+        <item>@color/cyan</item>
+        <item>@color/blue</item>
+        <item>@color/violet</item>
+        <item>@color/magenta</item>
+    </array>
+
+</resources>
